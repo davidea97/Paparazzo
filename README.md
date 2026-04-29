@@ -1,4 +1,14 @@
 # Paparazzo
-A learning-free solution for Active Mapping of Moving 3D Objects. 
 
-Code release planned soon. Stay tuned!
+<p align="center">
+
+  <img src="assets/teaser.png" width="800">
+
+</p>
+
+Official repository for **"Paparazzo: Active Mapping of Moving 3D Objects
+"**.
+
+🚧 This repository is currently under preparation.  
+
+Code and documentation will be released soon.
