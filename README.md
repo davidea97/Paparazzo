@@ -11,12 +11,17 @@ Official repository for **"Paparazzo: Active Mapping of Moving 3D Objects
 
 <p align="center">
 
-  Project page:
+  🌐 Project Page
   <a href="https://davidea97.github.io/paparazzo-page/">https://davidea97.github.io/paparazzo-page/ </a>
 
 </p>
 
-Code and documentation will be released soon 🚀📸.
+  📄 ArXiv Paper 
+  <a href="https://arxiv.org/abs/2604.19556">https://arxiv.org/abs/2604.19556 </a>
+
+</p>
+
+💻 Code and documentation will be released soon 🚀📸.
 
 <p align="center">
 
